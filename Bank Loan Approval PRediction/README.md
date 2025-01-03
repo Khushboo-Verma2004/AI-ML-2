@@ -25,6 +25,11 @@ This is a deep learning problem where we use simple ANN to implement this and ac
 
 ---
 
+## Project Category: 
+Deep Learning
+
+---
+
 ## DATASET: 
 It has been trained on Universal Bank dataset.
 
