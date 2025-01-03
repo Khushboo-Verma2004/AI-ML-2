@@ -26,6 +26,11 @@ It is designed for predictive analytics, such as weather forecasting, climate tr
 
 ---
 
+## Project Category: 
+Machine Learning
+
+---
+
 ## DATASET:
 ### Features:
 
