@@ -54,7 +54,7 @@ Deep Learning
 
 ### 3️⃣ **Weather Forecasting** 
  
-📚 **Description:**  
+☁️ **Description:**  
 Build weather prediction models leveraging historical data and real-time updates.  
 
 👾 **Project Category:** 
@@ -68,7 +68,7 @@ Machine Learning
 
 ### 4️⃣ **Music Genre**  
 
-☕ **Description:**  
+🎤 **Description:**  
 Classify songs into genres using audio features and machine learning models.  
 
 👾 **Project Category:** 
@@ -82,7 +82,7 @@ Machine Learning
 
 ### 5️⃣ **Dementia prediction**  
 
-👗 **Description:**  
+👩‍⚕️ **Description:**  
 Predict early signs of dementia using cognitive test data and medical history analysis.
 
 👾 **Project Category:** 
@@ -96,7 +96,7 @@ Machine Learning
 
 ### 6️⃣ **Anime data analysis and prediction** 
  
-🔗 **Description:**  
+🧚 **Description:**  
 Analyze anime trends and predict popularity based on ratings, genres, and viewer feedback.  
 
 👾 **Project Category:** 
